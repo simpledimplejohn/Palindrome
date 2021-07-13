@@ -1,0 +1,15 @@
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/bin/Debug/net5.0/Palindrome.deps.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.dev.json
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/bin/Debug/net5.0/Palindrome.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/bin/Debug/net5.0/ref/Palindrome.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/bin/Debug/net5.0/Palindrome.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.csproj.AssemblyReference.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfoInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfo.cs
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.csproj.CoreCompileInputs.cache
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/ref/Palindrome.dll
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.pdb
+/Users/johnblalock/Desktop/epicodus/C/week-7/Palindrome/Palindrome/obj/Debug/net5.0/Palindrome.genruntimeconfig.cache
